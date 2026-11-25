@@ -2,8 +2,8 @@
 
 산업데이터시각화 개인 프로젝트 · Streamlit 대시보드
 
-- 배포 URL: (배포 후 여기에 붙여 넣기)
-- GitHub: (이 저장소 주소)
+- 배포 URL: https://tti-births-app.streamlit.app/
+- GitHub: https://github.com/kmj19086-bit/tti_births_app
 
 ## 질문
 
